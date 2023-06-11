@@ -1,5 +1,7 @@
 # Project Name - Brain Tumor Prediction using Deep Learning
 
+## Published Literature Survey Paper in IEEE
+Published literature survey paper link -https://ieeexplore.ieee.org/document/10141790/
 
 ## Environment Setup
 
